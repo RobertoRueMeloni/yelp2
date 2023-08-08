@@ -1,6 +1,6 @@
 function SearchBar(){
   return <form>
-  <h1>search</h1>
+  <h3>search</h3>
   </form>
 }
 

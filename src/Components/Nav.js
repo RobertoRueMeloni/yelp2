@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import About from "./About";
 import SearchBar from "./Searchbar";
 
 function Nav() {

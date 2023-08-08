@@ -1,7 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
+
+
 import Nav from './Components/Nav';
 import About from './Components/About';
+import SearchBar from './Components/Searchbar';
+import RestaurantsGeo from './Components/RestaurantsGeo';
 
 
 function App() {
@@ -9,6 +12,8 @@ function App() {
     <>
       <Nav />
       <About />
+      <SearchBar />
+      <RestaurantsGeo />
     </>
   );
 }
